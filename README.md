@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1.  Resources
-  1. crypto_data.csv
+    1.  crypto_data.csv
 2.  cryptocurrency_cluster.ipynb
 3.  ReadMe
 4.  License 
