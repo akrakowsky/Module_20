@@ -39,6 +39,7 @@ Data Preparation
 
 ### Recommendation
 *  Based on your findings, make a brief (1-2 sentences) recommendation to your clients. Can the cryptocurrencies be clustered together? If so, into how many clusters?
+*  I would recommend clustering the cryptocurrency into 6 sets.
 
 --------------------------------------
 ### References
